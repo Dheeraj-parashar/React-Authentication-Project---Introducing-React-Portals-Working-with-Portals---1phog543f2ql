@@ -11,7 +11,7 @@ function Home() {
                     </Link>
                 </li>
                 <li>
-                    <Link id="profile" to="/profile">
+                    <Link id="profile" to="/Profile">
                         Profile
                     </Link>
                 </li>
